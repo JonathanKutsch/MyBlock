@@ -1,16 +1,7 @@
 # my_block
 
-A new Flutter project.
+My first Flutter project.
 
-## Getting Started
+Application made to chart out tasks and events that take place throughout one's schedule.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Stay on top of things using MyBlock.
